@@ -1,0 +1,15 @@
+.mceButton.mce_hcshortcodes:before {
+    content: "\f168";
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    font: normal 19px/1 'dashicons';
+    vertical-align: top;
+}
+
+.mce-ico.mce-i-hcshortcodes:before {
+    content: "\f168";
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    font: normal 19px/1 'dashicons';
+    vertical-align: top;
+}
